@@ -3,5 +3,6 @@ ___
 # Vacation Planner App
 ___
 ## Description
-**Vacation Planner** is an App for **Travellers**. It provides features like **choosing destination**, **booking tickets** and **organizing whole trip**. It provides solution to all the problems that a **Traveller** might face during his/her journey. It also provides detail information about a destination, **best places in vicinity**, **current weather** and **city's trend**. Make sure to Checkout [Features]() list for detailed description.
+**Vacation Planner** is an App for **Travellers**. It provides features like **choosing destination**, **booking tickets** and **organizing whole trip**. It provides solution to all the problems that a **Traveller** might face during his/her journey. It also provides detail information about a destination, **best places in vicinity**, **current weather** and **city's trend**. Make sure to Checkout [Features](#Features) list for detailed description.
+## Features 
 

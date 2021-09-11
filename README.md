@@ -5,4 +5,23 @@ ___
 ## Description
 **Vacation Planner** is an App for **Travellers**. It provides features like **choosing destination**, **booking tickets** and **organizing whole trip**. It provides solution to all the problems that a **Traveller** might face during his/her journey. It also provides detail information about a destination, **best places in vicinity**, **current weather** and **city's trend**. Make sure to Checkout [Features](#Features) list for detailed description.
 ## Features 
+- Booking of Tickets using razorpay
+- Selection of Vacation spot and the duration of Vacation
+can be planned over the app
+- Get general travel Information
+about the destination such as :
+  + Best time of year
+  + Tips for saving money
+- Create Wishlist for places to visit
+- Allows user to Schedule the date for visiting a destination
+- User can edit the itinerary
+
+
+
+
+
+
+
+
+
 

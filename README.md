@@ -23,13 +23,13 @@ about the destination such as :
   ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)&nbsp;&nbsp;&nbsp;![Firebase]( https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
  ___
  ## Contributors 
- 1. **Tushar Mali**
- 2. **Nirbhay Hanjura**
- 3. **Mansi Shingate**
- 4. **Tanvi Bote**
+ 1. [**Tushar Mali**](https://github.com/7-USH)
+ 2. [**Nirbhay Hanjura**](https://github.com/botnirbhay)
+ 3. [**Mansi Shingate**]()
+ 4. [**Tanvi Bote**](https://github.com/tanvibote)
 ## Our Mentors
-1. **Prajwal Kolte**
-2. **Abhay Ubhale**
+1. [**Prajwal Kolte**]()
+2. [**Abhay Ubhale**]()
  
 
 

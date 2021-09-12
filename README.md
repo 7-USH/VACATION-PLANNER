@@ -30,8 +30,9 @@ about the destination such as :
  3. [**Mansi Shingate**]()
  4. [**Tanvi Bote**](https://github.com/tanvibote)
 ## Our Mentors
-1. [**Prajwal Kolte**]()
-2. [**Abhay Ubhale**]()
+1. [**Prajwal Kolte**](https://github.com/prajwalkolte8301)
+2. [**Abhay Ubhale**](https://github.com/abby3010)
+___
  
 
 

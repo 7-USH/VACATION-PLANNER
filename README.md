@@ -1,6 +1,6 @@
 # [Project for Inheritance 2021](https://www.communityofcoders.in/events/610b7cb486b1a2498d7f0a6c)
 ___
-![gif](https://im6.ezgif.com/tmp/ezgif-6-9a8e0c89ff02.gif)
+![github gif](https://user-images.githubusercontent.com/82898989/132995860-93bb0b24-8e53-412f-af7a-1724c1d6016e.gif)
 ___
 # Vacation Planner
 ___

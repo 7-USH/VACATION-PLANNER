@@ -27,7 +27,7 @@ about the destination such as :
  ## Contributors 
  1. [**Tushar Mali**](https://github.com/7-USH)
  2. [**Nirbhay Hanjura**](https://github.com/botnirbhay)
- 3. [**Mansi Shingate**]()
+ 3. [**Mansi Shingate**](https://github.com/Mansi-Shingate)
  4. [**Tanvi Bote**](https://github.com/tanvibote)
 ## Our Mentors
 1. [**Prajwal Kolte**](https://github.com/prajwalkolte8301)
